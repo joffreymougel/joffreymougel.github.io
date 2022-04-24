@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'peace_sansregular';
+    src: url('../fonts/peace_sans-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Reforma2018-Blanca';
+    src: url('../fonts/Reforma2018-Blanca.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Reforma2018-Gris';
+    src: url('../fonts/Reforma2018-Gris.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Reforma2018-Negra';
+    src: url('../fonts/Reforma2018-Negra.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Inter-ExtraLight-BETA';
+    src: url('../fonts/Inter-ExtraLight-BETA.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Inter-Regular';
+    src: url('../fonts/Inter-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
